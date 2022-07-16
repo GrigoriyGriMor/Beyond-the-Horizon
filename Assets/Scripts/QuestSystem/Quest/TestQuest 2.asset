@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe379160bf26e84e871f6f9133480d4, type: 3}
+  m_Name: TestQuest 2
+  m_EditorClassIdentifier: 
+  questData:
+    ID: 202
+    titleQuest: 202gfdggdfgdfg
+    discriptionQuest: 
+    typeQuest: 0
+    timerQuest: 0
+    day: 0
+    hour: 0
+    minute: 0
+    levelPlayer: 0
+    statusQuest: 0
+    experience: 5
+    coins: 200
+    itemBase: []
+    currentStepNumber: 0
+    image1x1: {fileID: 0}
+    image2x1: {fileID: 0}
+    arrayStepsQuests:
+    - nextStepNumber: 1
+      titleStep: Talk NPC
+      descriptionStep: tttttttttttttttttttttttaaaaaaaaaaaaaaaaallllllllllllllllllllkkkkkkkkkknnnnnnnnnnnpppppppppppppppcccccccccc
+      actionCounts:
+      - textAction: 2020202020
+        currentCount: 0
+        maxCount: 1
+    - nextStepNumber: 1
+      titleStep: "\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E"
+      descriptionStep: "\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E\u043E"
+      actionCounts:
+      - textAction: Talk Xyem
+        currentCount: 0
+        maxCount: 1
+    - nextStepNumber: 0
+      titleStep: "\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430555555"
+      descriptionStep: "\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430"
+      actionCounts:
+      - textAction: 
+        currentCount: 0
+        maxCount: 0

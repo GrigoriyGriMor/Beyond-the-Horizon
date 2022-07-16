@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c06ff1297b012c54eae86a6ec58824d7, type: 3}
+  m_Name: TestMainSOQuest
+  m_EditorClassIdentifier: 
+  quests:
+  - {fileID: 11400000, guid: 59b6f7235baebb44c9412dba226d9f38, type: 2}
+  - {fileID: 11400000, guid: 228181136cea90a4e9a605c4f04cdf8e, type: 2}
+  - {fileID: 11400000, guid: c8d4f4a5696a2c344a760fbfd34381ff, type: 2}
+  - {fileID: 11400000, guid: 324a775f076fdfb4e9bb20148cd0a2a6, type: 2}

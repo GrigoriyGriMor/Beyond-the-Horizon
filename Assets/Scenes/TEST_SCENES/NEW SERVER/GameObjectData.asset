@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8982b944439245546bce2a2fed6a0b12, type: 3}
+  m_Name: GameObjectData
+  m_EditorClassIdentifier: 
+  playerObjects:
+  - name: Human_Man
+    playerClientPrefab: {fileID: 1315074788372139065, guid: c06bacbe542ac894394a9bd67e0adbcb, type: 3}
+    playerCloneForClient: {fileID: 1315074788372139065, guid: d0a8ecc7f4b35c44687b2b7789731408, type: 3}
+    playerServerPrefab: {fileID: 1315074788372139065, guid: ee2251fafefbaf24e877b203a285e138, type: 3}
+    playerPrefabForUI: {fileID: 5217958032669462671, guid: f5b8c36ed11b5294086095d080361151, type: 3}
+  - name: Human_Woman
+    playerClientPrefab: {fileID: 1315074788372139065, guid: f5f294f50f346b8488588df6177726a0, type: 3}
+    playerCloneForClient: {fileID: 1315074788372139065, guid: d349627b058c9114a9cdea2247d5ec55, type: 3}
+    playerServerPrefab: {fileID: 1315074788372139065, guid: 3d4a03e38ea85184da3bcfd3c2592ba6, type: 3}
+    playerPrefabForUI: {fileID: 3914070773615812661, guid: 1544214e674a43f48933d74fc8bb177b, type: 3}
+  - name: Robot_Man
+    playerClientPrefab: {fileID: 1315074788372139065, guid: 44ecb2acafbf0ea43aa96c55dc78ea28, type: 3}
+    playerCloneForClient: {fileID: 1315074788372139065, guid: fc023bd8133df6c4f8da1e7e5c4f024d, type: 3}
+    playerServerPrefab: {fileID: 1315074788372139065, guid: 3ab289ab77f75ea49b8e459edf0878ba, type: 3}
+    playerPrefabForUI: {fileID: 6052214030933105294, guid: 08c4e94120ede1342baab15db81cfe10, type: 3}
+  - name: Robot_Woman
+    playerClientPrefab: {fileID: 1315074788372139065, guid: f5f294f50f346b8488588df6177726a0, type: 3}
+    playerCloneForClient: {fileID: 1315074788372139065, guid: d349627b058c9114a9cdea2247d5ec55, type: 3}
+    playerServerPrefab: {fileID: 1315074788372139065, guid: 3d4a03e38ea85184da3bcfd3c2592ba6, type: 3}
+    playerPrefabForUI: {fileID: 3914070773615812661, guid: 1544214e674a43f48933d74fc8bb177b, type: 3}
+  - name: Default_Model
+    playerClientPrefab: {fileID: 0}
+    playerCloneForClient: {fileID: 0}
+    playerServerPrefab: {fileID: 0}
+    playerPrefabForUI: {fileID: 5937161551943417426, guid: 2eb0915269f29604ebc4ce0a678b7905, type: 3}
+  warriorObjects:
+  - name: type_0
+    playerClientPrefab: {fileID: 0}
+    playerCloneForClient: {fileID: 5161681920603071894, guid: c8f6f26469a509342bb3c91b91869c8b, type: 3}
+    playerServerPrefab: {fileID: 5161681920603071894, guid: 4ac6462043689b447929eef448f3f77b, type: 3}
+    playerPrefabForUI: {fileID: 0}
+  - name: type_1
+    playerClientPrefab: {fileID: 0}
+    playerCloneForClient: {fileID: 6410206867591088867, guid: 89f83610e1f55284cbddfe903654ef2d, type: 3}
+    playerServerPrefab: {fileID: 6410206867591088867, guid: c854a3cfc5d68394fbd2d0cb65ade112, type: 3}
+    playerPrefabForUI: {fileID: 0}
+  - name: type_2
+    playerClientPrefab: {fileID: 0}
+    playerCloneForClient: {fileID: 3728946676973334234, guid: bdb44f33572275c45ac1899989f6fea7, type: 3}
+    playerServerPrefab: {fileID: 3728946676973334234, guid: 3b4bc438d34aeb142835390f575030bc, type: 3}
+    playerPrefabForUI: {fileID: 0}
+  - name: type_3
+    playerClientPrefab: {fileID: 0}
+    playerCloneForClient: {fileID: 2621525676312057905, guid: 43f0127c8850e4842b0fe95a3dae69a2, type: 3}
+    playerServerPrefab: {fileID: 4741714140971300691, guid: 87d69b314fdfc0741b253df75a06af7e, type: 3}
+    playerPrefabForUI: {fileID: 0}
+  NPCObjects: []
+  transportObjects: []
+  otherObjects:
+  - {fileID: 11400000, guid: 95fb097e8d259ff41a07871a4596d697, type: 2}
+  - {fileID: 11400000, guid: 95fb097e8d259ff41a07871a4596d697, type: 2}
+  - {fileID: 11400000, guid: 2d9dba416d81efe43bf247ead4877ece, type: 2}
+  - {fileID: 11400000, guid: 95fb097e8d259ff41a07871a4596d697, type: 2}
+  - {fileID: 11400000, guid: 2d9dba416d81efe43bf247ead4877ece, type: 2}
+  gradeMaterials: []

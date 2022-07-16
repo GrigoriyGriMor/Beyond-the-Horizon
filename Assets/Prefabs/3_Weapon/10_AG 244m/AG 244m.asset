@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf258e4cadc6540478bd1ee570f1b597, type: 3}
+  m_Name: AG 244m
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: AG 244m
+  discription: "\u0423\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0438\u0439 \u0432
+    \u043C\u043E\u0440\u0430\u043B\u044C\u043D\u043E\u043C \u043F\u043B\u0430\u043D\u0435
+    \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u044C
+    \u043D\u0435\u043A\u043E\u0433\u0434\u0430 \u0432\u0435\u043B\u0438\u043A\u043E\u0439
+    \u0441\u0435\u0440\u0438\u0438 \u0432\u043E\u043E\u0440\u0443\u0436\u0435\u043D\u0438\u044F,
+    \u0438\u043C\u0435\u044F \u043E\u0449\u0443\u0442\u0438\u043C\u044B\u0435 \u0433\u0430\u0431\u0430\u0440\u0438\u0442\u044B
+    \u043C\u043E\u0436\u0435\u0442 \u043F\u043E\u0445\u0432\u0430\u0441\u0442\u0430\u0442\u044C\u0441\u044F
+    \u0441\u0440\u0435\u0434\u043D\u0438\u043C \u0442\u0435\u043C\u043F\u043E\u043C
+    \u0441\u0442\u0440\u0435\u043B\u044C\u0431\u044B. \u041E\u0442\u0434\u0430\u0447\u0430
+    \u043D\u0430 \u0441\u0440\u0435\u0434\u043D\u0435\u043C \u0443\u0440\u043E\u0432\u043D\u0435,
+    \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043F\u0430\u0442\u0440\u043E\u043D
+    \u0432 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0435 \u043D\u0435 \u043E\u0442\u043B\u0438\u0447\u0430\u0435\u0442\u0441\u044F
+    \u043E\u0442 \u0434\u0440\u0443\u0433\u0438\u0445 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u0435\u0439
+    \u044D\u0442\u043E\u0433\u043E \u043A\u043B\u0430\u0441\u0441\u0430 \u0432\u043E\u043E\u0440\u0443\u0436\u0435\u043D\u0438\u044F."
+  ObjectWithClass: {fileID: 8065988330759090294, guid: 7a2c05257c1c03e48837cfa480d234e0, type: 3}
+  SceneObjectVisual: {fileID: 5285017423252129055, guid: 02b0d588624007f44b951b96164f4b9b, type: 3}
+  sprite_1x1: {fileID: 21300000, guid: ca53e966af9233e4ebf81a7a72037574, type: 3}
+  sprite_2x1: {fileID: 21300000, guid: cfdb801452704984dade11e05f8d3616, type: 3}
+  sprite_1x2: {fileID: 0}
+  grade: 3
+  itemBasePrice: 155
+  ItemWeight: 17
+  canBeStack: 0
+  itemParam:
+  - parameterName: "\u0423\u0440\u043E\u043D"
+    parameterValue: 31
+  - parameterName: "\u041C\u0430\u043A\u0441. \u0434\u0438\u0441\u0442\u0430\u043D\u0446\u0438\u044F
+      \u043E\u0433\u043D\u044F"
+    parameterValue: 160
+  - parameterName: "\u042D\u0444\u0444\u0435\u043A. \u0434\u0438\u0441\u0442\u0430\u043D\u0446\u0438\u044F
+      \u043E\u0433\u043D\u044F"
+    parameterValue: 80
+  - parameterName: "\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u0440\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+    parameterValue: 600
+  - parameterName: "\u041F\u0435\u0440\u0435\u0437\u0430\u0440\u044F\u0434\u043A\u0430"
+    parameterValue: 2.1
+  - parameterName: "\u041E\u0431\u044A\u0435\u043C \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0430"
+    parameterValue: 30

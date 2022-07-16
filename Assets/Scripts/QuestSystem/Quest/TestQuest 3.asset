@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe379160bf26e84e871f6f9133480d4, type: 3}
+  m_Name: TestQuest 3
+  m_EditorClassIdentifier: 
+  questData:
+    ID: 303
+    titleQuest: 303fgdfgdfgdfgdfg
+    discriptionQuest: 
+    typeQuest: 0
+    timerQuest: 0
+    day: 0
+    hour: 0
+    minute: 0
+    levelPlayer: 0
+    statusQuest: 0
+    experience: 10
+    coins: 200
+    itemBase: []
+    currentStepNumber: 0
+    image1x1: {fileID: 0}
+    image2x1: {fileID: 0}
+    arrayStepsQuests:
+    - nextStepNumber: 1
+      titleStep: 303_0
+      descriptionStep: 303_0sd';sd''s;d';s'ds
+      actionCounts: []

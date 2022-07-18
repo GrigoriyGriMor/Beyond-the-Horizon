@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!226 &22600000
+BillboardAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GenericTreeSummer03_BillboardAsset
+  serializedVersion: 2
+  width: 8.622642
+  bottom: -0.86224365
+  height: 8.622642
+  imageTexCoords:
+  - {x: 0, y: 0, z: 0.25, w: 0.5}
+  vertices:
+  - {x: 0.44, y: 0}
+  - {x: 0, y: 0.277}
+  - {x: 0, y: 0.719}
+  - {x: 0.56, y: 0}
+  - {x: 1, y: 0.277}
+  - {x: 1, y: 0.719}
+  indices: 000003000400000004000100010004000500010005000200
+  material: {fileID: 2100000, guid: 83434639b5be7ef4793d9cf06b0f6c1f, type: 2}
